@@ -1,0 +1,1 @@
+When Sindre finally found the Dude, he wanted to immediately commit loads of great one line javascript code to the Dudes repositories. However, he had messed up his certificates somehow and now his SSH connection was refused!

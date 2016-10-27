@@ -1,0 +1,1 @@
+Sindre was able to install the correct local certificate and finally, SSH was working again! 

@@ -1,1 +1,2 @@
 Sindre Sorhus arrives! Armed with thousands of one-line node modules he could do absolutely anything! Or so he thought.. 
+Hardware-wise Sindre was rocking a Dell XPS running Arch Linux, a machine of terrible terrible power.

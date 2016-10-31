@@ -1,1 +1,1 @@
-Sindre was able to install the correct local certificate and finally, SSH was working again! To make him feel like he contributed something meaningful, Sindre plugged Flashy into his laptop's USB port at the exact moment the SSH was fixed.
+The noble Sindre was able to install the correct local certificate and finally, SSH was working again! To make him feel like he contributed something meaningful, Sindre plugged Flashy into his laptop's USB port at the exact moment the SSH was fixed.

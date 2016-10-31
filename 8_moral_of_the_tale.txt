@@ -1,1 +1,1 @@
-So the moral of the tale is, never screw around with your ~/.ssh/ folder when your drunk.
+So the moral of the tale is, never screw around with your ~/.ssh/ folder when your drunk, or make sure it is someone elses /ssh/ folder.

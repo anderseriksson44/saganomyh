@@ -1,3 +1,3 @@
-Sindre Sorhus arrives! Armed with thousands of one-line node modules he could do absolutely anything! Or so he thought.. 
+Sindre Sorhus arrives! Armed with millions of one-line node modules he could do absolutely anything! Or so he thought.. 
 Hardware-wise Sindre was rocking a Dell XPS running Arch Linux, a machine of terrible terrible power.
 With him was his trusty sidekick Flashy, an outdated USB flash drive he kept with him mostly for sentimental value.
